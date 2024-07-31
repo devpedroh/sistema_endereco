@@ -1,6 +1,6 @@
 ## Descrição
 
-    Sistema simples de controle de pedidos para um restaurante feito em Vue.JS para o front-end e o back-end em Laravel (PHP) com o padrão Repository Pattern.
+    Sistema simples de busca de CEP/Endereços feito em Vue.JS para o front-end e o back-end em Laravel (PHP) com o padrão Repository Pattern.
 
 ## Instruções
 
